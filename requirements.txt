@@ -1,0 +1,9 @@
+numpy
+ipykernel
+tensorflow
+matplotlib
+opencv-python
+seaborn
+joblib
+scikit-learn
+deepface
